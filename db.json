@@ -1,5 +1,22 @@
 {
-    "users": [
-        
-    ]
+  "users": [
+    {
+      "id": "6bde",
+      "username": "loqur",
+      "email": "daxixado@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1aad",
+      "username": "dutihokyv",
+      "email": "tidequjuwu@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "a3e1",
+      "username": "xinym",
+      "email": "jeguga@mailinator.com",
+      "password": "Pa$$w0rd!"
+    }
+  ]
 }
