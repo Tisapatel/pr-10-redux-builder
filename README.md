@@ -178,7 +178,7 @@ screenshots/
 
 | Home Page                 | Redux State                      |
 | ------------------------- | -------------------------------- |
-| ![](screenshots/SignUp.png) | ![](screenshots/redux-Status.png) |
+| ![](screenshots/SignUp.png) | ![](screenshots/Redux-Status.png) |
 
 | View Item                      | Edit Item                      |
 | ----------------------------- | ------------------------------ |
